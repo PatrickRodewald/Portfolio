@@ -811,7 +811,6 @@ C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfol
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\blazor.build.boot-extension.json
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\blazor.boot.json
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\pswvt40p5f-8rbvw3on5j.gz
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\fz3ga573iq-smjtv47z4n.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\2odw95otl5-c2jlpeoesf.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\6igbrtna3u-aexeepp0ev.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\qnizv75qmd-ausgxo2sd3.gz
@@ -1052,10 +1051,6 @@ C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfol
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\refint\Portfolio.dll
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.pdb
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\ref\Portfolio.dll
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.ovj14gdezc.pdb
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.7icwa7y2af.wasm
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.7icwa7y2af.wasm.gz
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.ovj14gdezc.pdb.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\Portfolio.sourcelink.json
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\81c5z5ueav-t1cqhe9u97.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\a090xev1ls-sejl45xvog.gz
@@ -1079,6 +1074,11 @@ C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfol
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\joe7eipnqk-8vyfqsqgz1.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\mwsu87oxa4-94vbygx4ws.gz
 C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\nk06j25ysf-4d85u1mtcx.gz
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\hrigvdkto3-7icwa7y2af.gz
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\i0zbla0v0v-ovj14gdezc.gz
-C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\n4srf7eo0m-du3vdmervq.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\fz3ga573iq-up9ipcznph.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.6y52qrc4tx.pdb
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.7kn21353wp.wasm
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.7kn21353wp.wasm.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\bin\Debug\net9.0\wwwroot\_framework\Portfolio.6y52qrc4tx.pdb.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\hrigvdkto3-7kn21353wp.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\i0zbla0v0v-6y52qrc4tx.gz
+C:\Users\Patrick_Rodewald\OneDrive - terra Cloud GmbH\Dokumente\Projekte\Portfolio\Portfolio\obj\Debug\net9.0\compressed\n4srf7eo0m-yx5c2uuiqg.gz

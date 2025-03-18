@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b6U5M+uAb9zMfeCCcE2jl6rIJm7oFFQ8iytYB831A9Y=",
+  "Hash": "QWCRY+FeWdFdY5wo2b4sWfxgtQsq1Z5sWEyh6Ityi3E=",
   "Source": "Portfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "du3vdmervq",
-      "Integrity": "NQooBtepBb8p1vOTWonU8cnVWTjH0KIdJQHo5xNcqSo=",
+      "Fingerprint": "yx5c2uuiqg",
+      "Integrity": "6nzGTcpO1nbq4Ps+w58BwntsIkSz9idwm4C5R5leGmI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "ovj14gdezc",
-      "Integrity": "HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4=",
+      "Fingerprint": "6y52qrc4tx",
+      "Integrity": "nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Portfolio.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "7icwa7y2af",
-      "Integrity": "sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA=",
+      "Fingerprint": "7kn21353wp",
+      "Integrity": "x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\webcil\\Portfolio.wasm"
@@ -6653,12 +6653,12 @@
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-smjtv47z4n.gz",
+      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-up9ipcznph.gz",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=smjtv47z4n}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=up9ipcznph}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6667,8 +6667,8 @@
       "RelatedAsset": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5j96ycq9t8",
-      "Integrity": "P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k=",
+      "Fingerprint": "66t14i45vq",
+      "Integrity": "EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\index.html"
@@ -6905,12 +6905,12 @@
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
     },
     {
-      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7icwa7y2af.gz",
+      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7kn21353wp.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Portfolio#[.{fingerprint=7icwa7y2af}]!.wasm.gz",
+      "RelativePath": "_framework/Portfolio#[.{fingerprint=7kn21353wp}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6919,8 +6919,8 @@
       "RelatedAsset": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xujm29n8hd",
-      "Integrity": "CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw=",
+      "Fingerprint": "ozsm94hlwz",
+      "Integrity": "vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.wasm"
@@ -6947,12 +6947,12 @@
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-ovj14gdezc.gz",
+      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-6y52qrc4tx.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Portfolio#[.{fingerprint=ovj14gdezc}]!.pdb.gz",
+      "RelativePath": "_framework/Portfolio#[.{fingerprint=6y52qrc4tx}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6961,8 +6961,8 @@
       "RelatedAsset": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qtg4lsswxy",
-      "Integrity": "LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM=",
+      "Fingerprint": "7t6mk6dik7",
+      "Integrity": "BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.pdb"
@@ -7724,7 +7724,7 @@
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.wasm"
     },
     {
-      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-du3vdmervq.gz",
+      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-yx5c2uuiqg.gz",
       "SourceId": "Portfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\",
@@ -7738,8 +7738,8 @@
       "RelatedAsset": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ieje44rw3y",
-      "Integrity": "uh0112zI2zp7jHcS0Q/ybmJOldUc+9Av2ZhtlViqFuw=",
+      "Fingerprint": "jcj3efo5ls",
+      "Integrity": "s67uqnA4x/AT6Pe//M5pu/o6OIyp2RbSCwADUfdXX9I=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9719,6 +9719,27 @@
       "OriginalItemSpec": "wwwroot\\icon-192.png"
     },
     {
+      "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\images\\profilbild.JPG",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/profilbild#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wlnoz1p058",
+      "Integrity": "fDtl5DNoQ3esNXBX98kcdarKMuvNbZE/MbKJ9lYxp7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profilbild.JPG"
+    },
+    {
       "Identity": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -9733,8 +9754,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "smjtv47z4n",
-      "Integrity": "XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc=",
+      "Fingerprint": "up9ipcznph",
+      "Integrity": "slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10705,11 +10726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NQooBtepBb8p1vOTWonU8cnVWTjH0KIdJQHo5xNcqSo=\""
+          "Value": "\"6nzGTcpO1nbq4Ps+w58BwntsIkSz9idwm4C5R5leGmI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,13 +10740,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NQooBtepBb8p1vOTWonU8cnVWTjH0KIdJQHo5xNcqSo="
+          "Value": "sha256-6nzGTcpO1nbq4Ps+w58BwntsIkSz9idwm4C5R5leGmI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-du3vdmervq.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-yx5c2uuiqg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10744,11 +10765,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uh0112zI2zp7jHcS0Q/ybmJOldUc+9Av2ZhtlViqFuw=\""
+          "Value": "\"s67uqnA4x/AT6Pe//M5pu/o6OIyp2RbSCwADUfdXX9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:07:35 GMT"
+          "Value": "Tue, 18 Mar 2025 07:30:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NQooBtepBb8p1vOTWonU8cnVWTjH0KIdJQHo5xNcqSo=\""
+          "Value": "W/\"6nzGTcpO1nbq4Ps+w58BwntsIkSz9idwm4C5R5leGmI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NQooBtepBb8p1vOTWonU8cnVWTjH0KIdJQHo5xNcqSo="
+          "Value": "sha256-6nzGTcpO1nbq4Ps+w58BwntsIkSz9idwm4C5R5leGmI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-du3vdmervq.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\n4srf7eo0m-yx5c2uuiqg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uh0112zI2zp7jHcS0Q/ybmJOldUc+9Av2ZhtlViqFuw=\""
+          "Value": "\"s67uqnA4x/AT6Pe//M5pu/o6OIyp2RbSCwADUfdXX9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:07:35 GMT"
+          "Value": "Tue, 18 Mar 2025 07:30:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uh0112zI2zp7jHcS0Q/ybmJOldUc+9Av2ZhtlViqFuw="
+          "Value": "sha256-s67uqnA4x/AT6Pe//M5pu/o6OIyp2RbSCwADUfdXX9I="
         }
       ]
     },
@@ -22285,168 +22306,7 @@
       ]
     },
     {
-      "Route": "_framework/Portfolio.7icwa7y2af.wasm",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17685"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7icwa7y2af"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Portfolio.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Portfolio.7icwa7y2af.wasm",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7icwa7y2af.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000127860887"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7820"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7icwa7y2af"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Portfolio.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Portfolio.7icwa7y2af.wasm.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7icwa7y2af.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7820"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7icwa7y2af"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Portfolio.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Portfolio.ovj14gdezc.pdb",
+      "Route": "_framework/Portfolio.6y52qrc4tx.pdb",
       "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22456,7 +22316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23920"
+          "Value": "26248"
         },
         {
           "Name": "Content-Type",
@@ -22464,11 +22324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4=\""
+          "Value": "\"nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:15 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22478,7 +22338,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ovj14gdezc"
+          "Value": "6y52qrc4tx"
         },
         {
           "Name": "label",
@@ -22486,18 +22346,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4="
+          "Value": "sha256-nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU="
         }
       ]
     },
     {
-      "Route": "_framework/Portfolio.ovj14gdezc.pdb",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-ovj14gdezc.gz",
+      "Route": "_framework/Portfolio.6y52qrc4tx.pdb",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-6y52qrc4tx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057610324"
+          "Quality": "0.000051096009"
         }
       ],
       "ResponseHeaders": [
@@ -22507,15 +22367,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17357"
+          "Value": "19570"
         },
         {
           "Name": "ETag",
-          "Value": "\"LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM=\""
+          "Value": "\"BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22535,13 +22395,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4=\""
+          "Value": "W/\"nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ovj14gdezc"
+          "Value": "6y52qrc4tx"
         },
         {
           "Name": "label",
@@ -22549,13 +22409,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4="
+          "Value": "sha256-nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU="
         }
       ]
     },
     {
-      "Route": "_framework/Portfolio.ovj14gdezc.pdb.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-ovj14gdezc.gz",
+      "Route": "_framework/Portfolio.6y52qrc4tx.pdb.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-6y52qrc4tx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22564,7 +22424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17357"
+          "Value": "19570"
         },
         {
           "Name": "Content-Type",
@@ -22572,11 +22432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM=\""
+          "Value": "\"BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22594,7 +22454,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ovj14gdezc"
+          "Value": "6y52qrc4tx"
         },
         {
           "Name": "label",
@@ -22602,7 +22462,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM="
+          "Value": "sha256-BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Portfolio.7kn21353wp.wasm",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Portfolio.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 07:40:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kn21353wp"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Portfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Portfolio.7kn21353wp.wasm",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7kn21353wp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000116238521"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8602"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kn21353wp"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Portfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Portfolio.7kn21353wp.wasm.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7kn21353wp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7kn21353wp"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Portfolio.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4="
         }
       ]
     },
@@ -22617,7 +22638,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23920"
+          "Value": "26248"
         },
         {
           "Name": "Content-Type",
@@ -22625,11 +22646,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4=\""
+          "Value": "\"nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:15 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22639,18 +22660,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4="
+          "Value": "sha256-nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU="
         }
       ]
     },
     {
       "Route": "_framework/Portfolio.pdb",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-ovj14gdezc.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-6y52qrc4tx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000057610324"
+          "Quality": "0.000051096009"
         }
       ],
       "ResponseHeaders": [
@@ -22660,15 +22681,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17357"
+          "Value": "19570"
         },
         {
           "Name": "ETag",
-          "Value": "\"LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM=\""
+          "Value": "\"BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22688,19 +22709,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4=\""
+          "Value": "W/\"nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HNGvxympiSjjLukYS1pqqtoH8eEoOLRNfl+mYSEYIo4="
+          "Value": "sha256-nvAJeNnkIitPjscofdTgqd1/LTuly8IdjUZ7JXzb6zU="
         }
       ]
     },
     {
       "Route": "_framework/Portfolio.pdb.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-ovj14gdezc.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\i0zbla0v0v-6y52qrc4tx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22709,7 +22730,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17357"
+          "Value": "19570"
         },
         {
           "Name": "Content-Type",
@@ -22717,11 +22738,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM=\""
+          "Value": "\"BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22739,7 +22760,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LhNOlPwu2f5GL0EFdbAt7R+69LI/TipQ1qNM38AP5mM="
+          "Value": "sha256-BXhbGduf1g7LyEn3z05fWQlVR2IKvrB/0zLcZqia6eA="
         }
       ]
     },
@@ -22754,7 +22775,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17685"
+          "Value": "20757"
         },
         {
           "Name": "Content-Type",
@@ -22762,11 +22783,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA=\""
+          "Value": "\"x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:15 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22776,18 +22797,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA="
+          "Value": "sha256-x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U="
         }
       ]
     },
     {
       "Route": "_framework/Portfolio.wasm",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7icwa7y2af.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7kn21353wp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000127860887"
+          "Quality": "0.000116238521"
         }
       ],
       "ResponseHeaders": [
@@ -22797,15 +22818,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7820"
+          "Value": "8602"
         },
         {
           "Name": "ETag",
-          "Value": "\"CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw=\""
+          "Value": "\"vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22825,19 +22846,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA=\""
+          "Value": "W/\"x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sZIrE9HUB/Dhap6TN2WSyflc61IfkNEmdbT2nkvwWCA="
+          "Value": "sha256-x4DlvEb4TgF7EiH8u877zyl8kCQKsv7gvwaoXZcVR2U="
         }
       ]
     },
     {
       "Route": "_framework/Portfolio.wasm.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7icwa7y2af.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\hrigvdkto3-7kn21353wp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22846,7 +22867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7820"
+          "Value": "8602"
         },
         {
           "Name": "Content-Type",
@@ -22854,11 +22875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw=\""
+          "Value": "\"vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:41:16 GMT"
+          "Value": "Tue, 18 Mar 2025 07:40:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22876,7 +22897,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CYRUbmsnD/R8Eza3+swaXwvc0zbT9ibgyWLgadtadgw="
+          "Value": "sha256-vDqXJEJdz3zIXIG0yJd/72/Nk8aiJU4birZNdydKH+4="
         }
       ]
     },
@@ -71619,13 +71640,95 @@
       ]
     },
     {
+      "Route": "images/profilbild.JPG",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\images\\profilbild.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDtl5DNoQ3esNXBX98kcdarKMuvNbZE/MbKJ9lYxp7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 07:27:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDtl5DNoQ3esNXBX98kcdarKMuvNbZE/MbKJ9lYxp7I="
+        }
+      ]
+    },
+    {
+      "Route": "images/profilbild.wlnoz1p058.JPG",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\images\\profilbild.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fDtl5DNoQ3esNXBX98kcdarKMuvNbZE/MbKJ9lYxp7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 07:27:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wlnoz1p058"
+        },
+        {
+          "Name": "label",
+          "Value": "images/profilbild.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fDtl5DNoQ3esNXBX98kcdarKMuvNbZE/MbKJ9lYxp7I="
+        }
+      ]
+    },
+    {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-smjtv47z4n.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-up9ipcznph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002127659574"
+          "Quality": "0.001980198020"
         }
       ],
       "ResponseHeaders": [
@@ -71635,15 +71738,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "469"
+          "Value": "504"
         },
         {
           "Name": "ETag",
-          "Value": "\"P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k=\""
+          "Value": "\"EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71663,13 +71766,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc=\""
+          "Value": "W/\"slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc="
+          "Value": "sha256-slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w="
         }
       ]
     },
@@ -71684,7 +71787,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "973"
+          "Value": "1080"
         },
         {
           "Name": "Content-Type",
@@ -71692,11 +71795,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc=\""
+          "Value": "\"slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71706,13 +71809,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc="
+          "Value": "sha256-slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-smjtv47z4n.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-up9ipcznph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71721,7 +71824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "469"
+          "Value": "504"
         },
         {
           "Name": "Content-Type",
@@ -71729,11 +71832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k=\""
+          "Value": "\"EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71751,18 +71854,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k="
+          "Value": "sha256-EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI="
         }
       ]
     },
     {
-      "Route": "index.smjtv47z4n.html",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-smjtv47z4n.gz",
+      "Route": "index.up9ipcznph.html",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-up9ipcznph.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002127659574"
+          "Quality": "0.001980198020"
         }
       ],
       "ResponseHeaders": [
@@ -71772,15 +71875,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "469"
+          "Value": "504"
         },
         {
           "Name": "ETag",
-          "Value": "\"P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k=\""
+          "Value": "\"EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71800,13 +71903,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc=\""
+          "Value": "W/\"slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "smjtv47z4n"
+          "Value": "up9ipcznph"
         },
         {
           "Name": "label",
@@ -71814,12 +71917,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc="
+          "Value": "sha256-slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w="
         }
       ]
     },
     {
-      "Route": "index.smjtv47z4n.html",
+      "Route": "index.up9ipcznph.html",
       "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71829,7 +71932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "973"
+          "Value": "1080"
         },
         {
           "Name": "Content-Type",
@@ -71837,11 +71940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc=\""
+          "Value": "\"slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71851,7 +71954,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "smjtv47z4n"
+          "Value": "up9ipcznph"
         },
         {
           "Name": "label",
@@ -71859,13 +71962,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XLjJ5/5In3DMfcL+gLfFeGMHU/Sjvs69VVr/TDk7zOc="
+          "Value": "sha256-slrh2we3uGxmvKfm8h2TBm/6dkReZ7zj1PByFcUvM4w="
         }
       ]
     },
     {
-      "Route": "index.smjtv47z4n.html.gz",
-      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-smjtv47z4n.gz",
+      "Route": "index.up9ipcznph.html.gz",
+      "AssetFile": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\obj\\Debug\\net9.0\\compressed\\fz3ga573iq-up9ipcznph.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71874,7 +71977,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "469"
+          "Value": "504"
         },
         {
           "Name": "Content-Type",
@@ -71882,11 +71985,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k=\""
+          "Value": "\"EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 06:40:48 GMT"
+          "Value": "Tue, 18 Mar 2025 07:19:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71904,7 +72007,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "smjtv47z4n"
+          "Value": "up9ipcznph"
         },
         {
           "Name": "label",
@@ -71912,7 +72015,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P5jfisPasiONcsecxucpVaciRN4Pv5ccsUzGU9lmI8k="
+          "Value": "sha256-EioOa8FpqlDB+OP7yJF0iPTOW8XYhgSCwxGKhon12DI="
         }
       ]
     },

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\images\\profilbild.JPG",
+      "PackagePath": "staticwebassets\\images\\profilbild.JPG"
+    },
+    {
       "Id": "C:\\Users\\Patrick_Rodewald\\OneDrive - terra Cloud GmbH\\Dokumente\\Projekte\\Portfolio\\Portfolio\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
